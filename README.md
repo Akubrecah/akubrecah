@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 About Me:
 🔭 I'm currently working on a Braille Transcription Website<br>👯 I'm looking to collaborate on web development projects<br>🤝 Seeking help with frontend and backend development<br>🌱 Currently mastering Python programming<br><br>
 
@@ -9,9 +7,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/poweldayck)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Akubrecah)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Akubrecah)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poweldayck@gmail.com) 
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poweldayck@gmail.com)
 
 <div align="center">
 
