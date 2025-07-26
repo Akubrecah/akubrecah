@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:
+## 💫 About Me:
 🔭 I'm currently working on a Braille Transcription Website<br>👯 I'm looking to collaborate on web development projects<br>🤝 Seeking help with frontend and backend development<br>🌱 Currently mastering Python programming<br><br>
 
 ## 🌐 Socials:
