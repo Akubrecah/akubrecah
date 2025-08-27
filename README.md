@@ -1,9 +1,9 @@
 <div align="center">
 
-# 💫 About Me:
+# About Me:
 🔭 I'm currently working on a Braille Transcription Website<br>👯 I'm looking to collaborate on web development projects<br>🤝 Seeking help with frontend and backend development<br>🌱 Currently mastering Python programming<br><br>
 
-## 🌐 Socials:
+## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/poweldary)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darypowel)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/poweldayck)
