@@ -41,6 +41,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+
+<br>
+
+### 📈 Language Metrics (Based on All Repositories)
+
+| Language | Code Size | Percentage |
+|----------|-----------|------------|
+| **Python** | 96.54 MB | 86.94% |
+| **JavaScript** | 4.12 MB | 3.71% |
+| **TypeScript** | 3.93 MB | 3.54% |
+| **Cython** | 2.35 MB | 2.12% |
+| **Batchfile** | 1.52 MB | 1.37% |
+| **HTML** | 952.08 KB | 0.84% |
+| **C** | 715.75 KB | 0.63% |
+| **CSS** | 353.88 KB | 0.31% |
+| **C++** | 256.55 KB | 0.23% |
+| **Shell** | 148.82 KB | 0.13% |
+| **PowerShell** | 72.55 KB | 0.06% |
+| **Jinja** | 67.06 KB | 0.06% |
+| **Kotlin** | 17.37 KB | 0.02% |
+| *Other* | *< 50 KB* | *< 0.05%* |
+
 </div>
 
 <div align="center">
