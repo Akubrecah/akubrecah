@@ -48,15 +48,22 @@
 
 <div align="center">
   
-| Language | Size | Percentage | Language | Size | Percentage |
-| :--- | :---: | :---: | :--- | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 96.54 MB | 86.94% | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 353.88 KB | 0.31% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 4.12 MB | 3.71% | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 256.55 KB | 0.23% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | 3.93 MB | 3.54% | ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | 148.82 KB | 0.13% |
-| ![Cython](https://img.shields.io/badge/Cython-black?style=for-the-badge&logo=python&logoColor=white) | 2.35 MB | 2.12% | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | 72.55 KB | 0.06% |
-| ![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white) | 1.52 MB | 1.37% | ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white) | 67.06 KB | 0.06% |
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 952.08 KB | 0.84% | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | 17.37 KB | 0.02% |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 715.75 KB | 0.63% | *Other* | *< 50 KB* | *< 0.05%* |
+| Language | Code Size | Percentage |
+| :--- | :---: | :---: |
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 96.54 MB | 86.94% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 4.12 MB | 3.71% |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | 3.93 MB | 3.54% |
+| ![Cython](https://img.shields.io/badge/Cython-black?style=for-the-badge&logo=python&logoColor=white) | 2.35 MB | 2.12% |
+| ![Batchfile](https://img.shields.io/badge/Batchfile-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white) | 1.52 MB | 1.37% |
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 952.08 KB | 0.84% |
+| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | 715.75 KB | 0.63% |
+| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 353.88 KB | 0.31% |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | 256.55 KB | 0.23% |
+| ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | 148.82 KB | 0.13% |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | 72.55 KB | 0.06% |
+| ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white) | 67.06 KB | 0.06% |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | 17.37 KB | 0.02% |
+| *Other* | *< 50 KB* | *< 0.05%* |
 
 </div>
 
